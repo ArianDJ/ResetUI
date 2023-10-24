@@ -1,2 +1,2 @@
-# ResetUI-NL
-ResetUI in het Nederlands.
+# ResetUI
+ResetUI for windows (run as admin)
